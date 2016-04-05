@@ -1,2 +1,2 @@
 # LOR
-Left or Right
+Left or Right - Free app that randomly chooses left or right.
