@@ -302,6 +302,7 @@
 				18D5637C1CB3581E0047D72E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
